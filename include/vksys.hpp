@@ -35,4 +35,8 @@ void CreateGraphicsLogicalDevice();
 
 void DestroyGraphicsLogicalDevice();
 
+void CreateSwapchain();
+
+void DestroySwapchain();
+
 }
